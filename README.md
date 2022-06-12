@@ -1,7 +1,6 @@
-# programa-de-bolsas-compasso
-Exercícios Programa de bolsas .Net
 
- # Sugestão atividade 1 Sprint 3
+
+ # Sugestão atividade:
 
 Requisitos funcionais e não funcionais
 
